@@ -1,0 +1,115 @@
+*{
+    box-sizing: border-box;
+	margin: 0px;
+
+}
+
+body{
+    font-family: raleway;
+    font-weight: normal;
+    line-height: 1.5;
+    background-color: #fff;
+
+}
+#div1,
+#div2,
+#div3,
+#div4,
+#div5,
+#div6,
+#div7,
+#div8{
+	height: 60px;
+    border: 1px solid #d2c0c0;
+	border-radius: 5px;
+}
+#drag{
+	white-space: nowrap;
+}
+.img-box{
+	padding: 20px;
+}
+#how-it-works{
+	text-align: center;
+}
+.btn-group-vertical{
+	padding: 10px;
+}
+.button-box{
+	padding: 13px;
+}
+.row-center{
+	text-align: center;
+}
+.form-group{
+	text-align: center;
+}
+.box-center{
+	float: none;
+	display: inline-block;
+}
+.thumbnail{
+	position: relative;
+}
+#check-icon,
+#check-icon-1,
+#check-icon-2,
+#check-icon-3,
+#check-icon-4,
+#check-icon-5,
+#check-icon-6,
+#check-icon-7{
+	color: #52ff52;
+	position: absolute;
+	top: 30%;
+	left: 40%;
+}
+#false-icon,
+#false-icon-1,
+#false-icon-2,
+#false-icon-3,
+#false-icon-4,
+#false-icon-5,
+#false-icon-6,
+#false-icon-7{
+	color: red;
+	position: absolute;
+	top: 30%;
+	left: 40%;
+}
+button{
+	width: 150px;
+	height: 50px;
+}
+/********* become a tutor page*******/
+/********** Large devices only **********/
+@media (min-width: 1200px) {
+
+}
+
+/********** Medium devices only **********/
+@media (min-width: 992px) and (max-width: 1199px) {
+
+
+}
+
+/********** Small devices only **********/
+@media (min-width: 768px) and (max-width: 991px) {
+
+}
+
+/********** Extra small devices only **********/
+@media (max-width: 767px) {
+
+
+
+}
+
+
+/********** Super extra small devices Only :-) (e.g., iPhone 4) **********/
+@media (max-width: 479px) {
+
+}
+
+
+
